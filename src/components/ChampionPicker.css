@@ -1,0 +1,56 @@
+.modal-overlay {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 1000;
+}
+
+.modal-content {
+  width: 75vw;
+  max-height: 75vh;
+  padding: 20px;
+  border-radius: 10px;
+  background: #2b2b2b;
+  border: 1px solid #444;
+  overflow-y: auto;
+}
+
+.modal-content h3 {
+  text-align: center;
+  margin-bottom: 15px;
+  color: #ff6600;
+}
+
+.champion-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 125px);
+  gap: 20px;
+  justify-content: center;
+}
+
+.champion-option {
+  cursor: pointer;
+  width: 100px;
+  text-align: center;
+  padding: 10px;
+  border: 2px solid transparent;
+  border-radius: 10px;
+  background-color: #1e1e1e;
+  transition: border-color 0.2s, transform 0.2s;
+}
+
+.champion-option:hover {
+  border: 2px solid #ff8400;
+  transform: scale(1.05);
+}
+
+.champion-option p {
+  font-size: 18px;
+  margin: 10px 0px;
+}

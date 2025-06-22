@@ -1,0 +1,4422 @@
+[
+  {
+    "name": "Aatrox",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Aatrox.png",
+    "tier": {
+      "top": "D",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 49.52,
+      "jgl": 45.69,
+      "mid": 49.25,
+      "bot": 55.29,
+      "sup": 42.18
+    },
+    "pickrate": {
+      "top": 10.6,
+      "jgl": 0.1,
+      "mid": 0.3,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 13.2
+  },
+  {
+    "name": "Ahri",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Ahri.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "D",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 49.18,
+      "jgl": 21.43,
+      "mid": 49.03,
+      "bot": 50.36,
+      "sup": 46.12
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 8.6,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 3.2
+  },
+  {
+    "name": "Akali",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Akali.png",
+    "tier": {
+      "top": "A",
+      "jgl": "?",
+      "mid": "A",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 50.7,
+      "jgl": 0,
+      "mid": 49.92,
+      "bot": 33.33,
+      "sup": 39.17
+    },
+    "pickrate": {
+      "top": 1.6,
+      "jgl": 0.1,
+      "mid": 6,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 9.5
+  },
+  {
+    "name": "Akshan",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Akshan.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "S",
+      "bot": "B",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 50.87,
+      "jgl": 44.19,
+      "mid": 51.3,
+      "bot": 50.06,
+      "sup": 42.86
+    },
+    "pickrate": {
+      "top": 0.2,
+      "jgl": 0.1,
+      "mid": 2.7,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 3.5
+  },
+  {
+    "name": "Alistar",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Alistar.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "S"
+    },
+    "winrate": {
+      "top": 44.66,
+      "jgl": 24.07,
+      "mid": 36.49,
+      "bot": 45.45,
+      "sup": 50.47
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 6.5
+    },
+    "banrate": 2.5
+  },
+  {
+    "name": "Ambessa",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Ambessa.png",
+    "tier": {
+      "top": "D",
+      "jgl": "B",
+      "mid": "B",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 48.84,
+      "jgl": 48.38,
+      "mid": 49.12,
+      "bot": 39.62,
+      "sup": 43.65
+    },
+    "pickrate": {
+      "top": 5.3,
+      "jgl": 0.2,
+      "mid": 0.3,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 8.5
+  },
+  {
+    "name": "Amumu",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Amumu.png",
+    "tier": {
+      "top": "?",
+      "jgl": "B",
+      "mid": "?",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 33.11,
+      "jgl": 49.68,
+      "mid": 36.84,
+      "bot": 26.67,
+      "sup": 50.02
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 2.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.3
+    },
+    "banrate": 1.4
+  },
+  {
+    "name": "Anivia",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Anivia.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "S",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 52.02,
+      "jgl": 12.5,
+      "mid": 51.42,
+      "bot": 51.09,
+      "sup": 48.91
+    },
+    "pickrate": {
+      "top": 0.2,
+      "jgl": 0.1,
+      "mid": 2,
+      "bot": 0.1,
+      "sup": 0.3
+    },
+    "banrate": 2
+  },
+  {
+    "name": "Annie",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Annie.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "S",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 49.66,
+      "jgl": 27.27,
+      "mid": 51.42,
+      "bot": 48.15,
+      "sup": 50.23
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 2.7,
+      "bot": 0.1,
+      "sup": 0.4
+    },
+    "banrate": 1.4
+  },
+  {
+    "name": "Aphelios",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Aphelios.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "B",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 47.4,
+      "jgl": 40.91,
+      "mid": 41.65,
+      "bot": 49.87,
+      "sup": 33.33
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 8.5,
+      "sup": 0.1
+    },
+    "banrate": 2.4
+  },
+  {
+    "name": "Ashe",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Ashe.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "B",
+      "sup": "C"
+    },
+    "winrate": {
+      "top": 42.53,
+      "jgl": 19.23,
+      "mid": 43.9,
+      "bot": 49.86,
+      "sup": 44.18
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 6.3,
+      "sup": 0.6
+    },
+    "banrate": 1.7
+  },
+  {
+    "name": "AurelionSol",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/AurelionSol.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "A",
+      "bot": "A",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 50.3,
+      "jgl": 43.78,
+      "mid": 50.06,
+      "bot": 53.55,
+      "sup": 43.2
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 2.2,
+      "bot": 0.3,
+      "sup": 0.1
+    },
+    "banrate": 0.7
+  },
+  {
+    "name": "Aurora",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Aurora.png",
+    "tier": {
+      "top": "A",
+      "jgl": "?",
+      "mid": "S",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 50.13,
+      "jgl": 26.83,
+      "mid": 50.27,
+      "bot": 53.17,
+      "sup": 42.26
+    },
+    "pickrate": {
+      "top": 0.9,
+      "jgl": 0.1,
+      "mid": 3.8,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 4.2
+  },
+  {
+    "name": "Azir",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Azir.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "D",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 48.06,
+      "jgl": 17.65,
+      "mid": 46.54,
+      "bot": 39.04,
+      "sup": 39.8
+    },
+    "pickrate": {
+      "top": 0.2,
+      "jgl": 0.1,
+      "mid": 3.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 0.6
+  },
+  {
+    "name": "Bard",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Bard.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "S"
+    },
+    "winrate": {
+      "top": 44.33,
+      "jgl": 19.05,
+      "mid": 37.31,
+      "bot": 30.3,
+      "sup": 51.2
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 5.4
+    },
+    "banrate": 1.3
+  },
+  {
+    "name": "Belveth",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Belveth.png",
+    "tier": {
+      "top": "?",
+      "jgl": "S",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 51.71,
+      "jgl": 50.73,
+      "mid": 50,
+      "bot": 38.1,
+      "sup": 35.24
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 2.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 4
+  },
+  {
+    "name": "Blitzcrank",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Blitzcrank.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "A"
+    },
+    "winrate": {
+      "top": 30.88,
+      "jgl": 16.67,
+      "mid": 38.2,
+      "bot": 26.53,
+      "sup": 49.94
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 4.9
+    },
+    "banrate": 12
+  },
+  {
+    "name": "Brand",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Brand.png",
+    "tier": {
+      "top": "?",
+      "jgl": "B",
+      "mid": "B",
+      "bot": "B",
+      "sup": "C"
+    },
+    "winrate": {
+      "top": 45.87,
+      "jgl": 47.52,
+      "mid": 49.48,
+      "bot": 50.74,
+      "sup": 47.48
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.3,
+      "mid": 0.5,
+      "bot": 0.2,
+      "sup": 1.4
+    },
+    "banrate": 1.1
+  },
+  {
+    "name": "Braum",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Braum.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "S+"
+    },
+    "winrate": {
+      "top": 37.25,
+      "jgl": 46.15,
+      "mid": 47.62,
+      "bot": 45.16,
+      "sup": 52.03
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 8.3
+    },
+    "banrate": 13.8
+  },
+  {
+    "name": "Briar",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Briar.png",
+    "tier": {
+      "top": "B",
+      "jgl": "A",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 49.44,
+      "jgl": 50.17,
+      "mid": 51.38,
+      "bot": 42.11,
+      "sup": 39.22
+    },
+    "pickrate": {
+      "top": 0.2,
+      "jgl": 3,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 3
+  },
+  {
+    "name": "Caitlyn",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Caitlyn.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "D",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 42.97,
+      "jgl": 11.43,
+      "mid": 43.04,
+      "bot": 49.06,
+      "sup": 37.75
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 10.3,
+      "sup": 0.1
+    },
+    "banrate": 12.7
+  },
+  {
+    "name": "Camille",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Camille.png",
+    "tier": {
+      "top": "A",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 50.66,
+      "jgl": 45.41,
+      "mid": 54.16,
+      "bot": 36.67,
+      "sup": 46.92
+    },
+    "pickrate": {
+      "top": 3.7,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.4
+    },
+    "banrate": 1.4
+  },
+  {
+    "name": "Cassiopeia",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Cassiopeia.png",
+    "tier": {
+      "top": "A",
+      "jgl": "?",
+      "mid": "A",
+      "bot": "B",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 52.55,
+      "jgl": 16.67,
+      "mid": 50.59,
+      "bot": 51.61,
+      "sup": 39.6
+    },
+    "pickrate": {
+      "top": 0.6,
+      "jgl": 0.1,
+      "mid": 1.3,
+      "bot": 0.2,
+      "sup": 0.1
+    },
+    "banrate": 1.4
+  },
+  {
+    "name": "Chogath",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Chogath.png",
+    "tier": {
+      "top": "S",
+      "jgl": "?",
+      "mid": "A",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 51.36,
+      "jgl": 43.65,
+      "mid": 51.08,
+      "bot": 48.16,
+      "sup": 44.47
+    },
+    "pickrate": {
+      "top": 3.1,
+      "jgl": 0.1,
+      "mid": 0.7,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 0.9
+  },
+  {
+    "name": "Corki",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Corki.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "C",
+      "bot": "B",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 47.49,
+      "jgl": 30.77,
+      "mid": 46.54,
+      "bot": 49.35,
+      "sup": 38.78
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.9,
+      "bot": 2,
+      "sup": 0.1
+    },
+    "banrate": 0.6
+  },
+  {
+    "name": "Darius",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Darius.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 49.69,
+      "jgl": 49.65,
+      "mid": 49.44,
+      "bot": 42.2,
+      "sup": 43.08
+    },
+    "pickrate": {
+      "top": 5.5,
+      "jgl": 0.3,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 13.8
+  },
+  {
+    "name": "Diana",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Diana.png",
+    "tier": {
+      "top": "B",
+      "jgl": "S",
+      "mid": "S",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 48.86,
+      "jgl": 50.52,
+      "mid": 51.59,
+      "bot": 47.54,
+      "sup": 45.79
+    },
+    "pickrate": {
+      "top": 0.2,
+      "jgl": 6.2,
+      "mid": 4.2,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 6.6
+  },
+  {
+    "name": "Draven",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Draven.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "B",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 46.78,
+      "jgl": 31.25,
+      "mid": 44.62,
+      "bot": 49.61,
+      "sup": 26.67
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 4,
+      "sup": 0.1
+    },
+    "banrate": 18.8
+  },
+  {
+    "name": "DrMundo",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/DrMundo.png",
+    "tier": {
+      "top": "D",
+      "jgl": "C",
+      "mid": "B",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 49.38,
+      "jgl": 48.34,
+      "mid": 48.56,
+      "bot": 48.43,
+      "sup": 40.37
+    },
+    "pickrate": {
+      "top": 8.1,
+      "jgl": 1.3,
+      "mid": 0.2,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 14.8
+  },
+  {
+    "name": "Ekko",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Ekko.png",
+    "tier": {
+      "top": "B",
+      "jgl": "S",
+      "mid": "S",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 45.23,
+      "jgl": 50.98,
+      "mid": 51.57,
+      "bot": 45.45,
+      "sup": 51.62
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 6.6,
+      "mid": 3.4,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 5.7
+  },
+  {
+    "name": "Elise",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Elise.png",
+    "tier": {
+      "top": "B",
+      "jgl": "B",
+      "mid": "?",
+      "bot": "?",
+      "sup": "S"
+    },
+    "winrate": {
+      "top": 50.62,
+      "jgl": 49.97,
+      "mid": 45.15,
+      "bot": 38.1,
+      "sup": 51.04
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 3.2,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 2.3
+    },
+    "banrate": 7.8
+  },
+  {
+    "name": "Evelynn",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Evelynn.png",
+    "tier": {
+      "top": "?",
+      "jgl": "S",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 48.78,
+      "jgl": 50.5,
+      "mid": 50,
+      "bot": 37.5,
+      "sup": 50.4
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 2.7,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 4.1
+  },
+  {
+    "name": "Ezreal",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Ezreal.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "C",
+      "bot": "D",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 35.86,
+      "jgl": 27.74,
+      "mid": 39.79,
+      "bot": 47.59,
+      "sup": 35.27
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.3,
+      "bot": 14.8,
+      "sup": 0.1
+    },
+    "banrate": 5.2
+  },
+  {
+    "name": "Fiddlesticks",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Fiddlesticks.png",
+    "tier": {
+      "top": "B",
+      "jgl": "A",
+      "mid": "B",
+      "bot": "?",
+      "sup": "A"
+    },
+    "winrate": {
+      "top": 51.38,
+      "jgl": 50.65,
+      "mid": 51.38,
+      "bot": 50,
+      "sup": 51.25
+    },
+    "pickrate": {
+      "top": 0.2,
+      "jgl": 2.3,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.9
+    },
+    "banrate": 2.6
+  },
+  {
+    "name": "Fiora",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Fiora.png",
+    "tier": {
+      "top": "S+",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 51.43,
+      "jgl": 45.45,
+      "mid": 51.44,
+      "bot": 55.43,
+      "sup": 43.15
+    },
+    "pickrate": {
+      "top": 4.5,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 7
+  },
+  {
+    "name": "Fizz",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Fizz.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "A",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 50,
+      "jgl": 37.78,
+      "mid": 50.26,
+      "bot": 57.58,
+      "sup": 34.87
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 2.8,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 2.9
+  },
+  {
+    "name": "Galio",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Galio.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "S",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 49.45,
+      "jgl": 34.29,
+      "mid": 51.07,
+      "bot": 35.59,
+      "sup": 50.11
+    },
+    "pickrate": {
+      "top": 0.3,
+      "jgl": 0.1,
+      "mid": 4.8,
+      "bot": 0.1,
+      "sup": 0.6
+    },
+    "banrate": 3.2
+  },
+  {
+    "name": "Gangplank",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Gangplank.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 49.63,
+      "jgl": 14.29,
+      "mid": 47.97,
+      "bot": 40,
+      "sup": 31.71
+    },
+    "pickrate": {
+      "top": 4.2,
+      "jgl": 0.1,
+      "mid": 0.3,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 3.4
+  },
+  {
+    "name": "Garen",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Garen.png",
+    "tier": {
+      "top": "C",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 49.52,
+      "jgl": 32.39,
+      "mid": 50.03,
+      "bot": 39.66,
+      "sup": 34.58
+    },
+    "pickrate": {
+      "top": 4,
+      "jgl": 0.1,
+      "mid": 0.3,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 2.5
+  },
+  {
+    "name": "Gnar",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Gnar.png",
+    "tier": {
+      "top": "C",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 49.12,
+      "jgl": 46.07,
+      "mid": 44.93,
+      "bot": 45.45,
+      "sup": 38.75
+    },
+    "pickrate": {
+      "top": 3.3,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 1
+  },
+  {
+    "name": "Gragas",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Gragas.png",
+    "tier": {
+      "top": "A",
+      "jgl": "B",
+      "mid": "A",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 50.7,
+      "jgl": 50.14,
+      "mid": 52.23,
+      "bot": 38.89,
+      "sup": 49.43
+    },
+    "pickrate": {
+      "top": 3.5,
+      "jgl": 1.2,
+      "mid": 0.5,
+      "bot": 0.1,
+      "sup": 0.4
+    },
+    "banrate": 1.8
+  },
+  {
+    "name": "Graves",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Graves.png",
+    "tier": {
+      "top": "B",
+      "jgl": "D",
+      "mid": "B",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 44.62,
+      "jgl": 49.3,
+      "mid": 42.64,
+      "bot": 43.67,
+      "sup": 33.77
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 6,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 4.7
+  },
+  {
+    "name": "Gwen",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Gwen.png",
+    "tier": {
+      "top": "A",
+      "jgl": "B",
+      "mid": "A",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 49.97,
+      "jgl": 49.38,
+      "mid": 51.88,
+      "bot": 50.94,
+      "sup": 47.5
+    },
+    "pickrate": {
+      "top": 3.5,
+      "jgl": 1.9,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 11
+  },
+  {
+    "name": "Hecarim",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Hecarim.png",
+    "tier": {
+      "top": "?",
+      "jgl": "S",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 36.43,
+      "jgl": 50.09,
+      "mid": 7.69,
+      "bot": 20,
+      "sup": 20
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 4.8,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 4.9
+  },
+  {
+    "name": "Heimerdinger",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Heimerdinger.png",
+    "tier": {
+      "top": "A",
+      "jgl": "?",
+      "mid": "A",
+      "bot": "A",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 50.76,
+      "jgl": 42.65,
+      "mid": 52.32,
+      "bot": 53.65,
+      "sup": 49.02
+    },
+    "pickrate": {
+      "top": 1,
+      "jgl": 0.1,
+      "mid": 0.3,
+      "bot": 0.1,
+      "sup": 0.2
+    },
+    "banrate": 1.3
+  },
+  {
+    "name": "Hwei",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Hwei.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "B",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 46.95,
+      "jgl": 25,
+      "mid": 49.86,
+      "bot": 50.33,
+      "sup": 48.93
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 4.8,
+      "bot": 0.6,
+      "sup": 0.6
+    },
+    "banrate": 3.5
+  },
+  {
+    "name": "Illaoi",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Illaoi.png",
+    "tier": {
+      "top": "D",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 48.48,
+      "jgl": 0,
+      "mid": 49.21,
+      "bot": 30.77,
+      "sup": 25.35
+    },
+    "pickrate": {
+      "top": 1.7,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 2.8
+  },
+  {
+    "name": "Irelia",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Irelia.png",
+    "tier": {
+      "top": "S+",
+      "jgl": "?",
+      "mid": "D",
+      "bot": "B",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 50.25,
+      "jgl": 48.65,
+      "mid": 48.71,
+      "bot": 45.43,
+      "sup": 27.14
+    },
+    "pickrate": {
+      "top": 3.8,
+      "jgl": 0.1,
+      "mid": 2.5,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 12.2
+  },
+  {
+    "name": "Ivern",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Ivern.png",
+    "tier": {
+      "top": "B",
+      "jgl": "A",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 47.66,
+      "jgl": 51.51,
+      "mid": 53.33,
+      "bot": 47.62,
+      "sup": 49.12
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 1.7,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.2
+    },
+    "banrate": 1
+  },
+  {
+    "name": "Janna",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Janna.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "S"
+    },
+    "winrate": {
+      "top": 35.06,
+      "jgl": 19.23,
+      "mid": 41.84,
+      "bot": 43.04,
+      "sup": 51.69
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 4.9
+    },
+    "banrate": 1.6
+  },
+  {
+    "name": "JarvanIV",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/JarvanIV.png",
+    "tier": {
+      "top": "B",
+      "jgl": "S+",
+      "mid": "B",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 48.13,
+      "jgl": 51.53,
+      "mid": 48.54,
+      "bot": 48.94,
+      "sup": 49.64
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 6.7,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.3
+    },
+    "banrate": 2.9
+  },
+  {
+    "name": "Jax",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Jax.png",
+    "tier": {
+      "top": "S+",
+      "jgl": "A",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 50.31,
+      "jgl": 51.33,
+      "mid": 46.62,
+      "bot": 45.57,
+      "sup": 44.67
+    },
+    "pickrate": {
+      "top": 6.5,
+      "jgl": 1.4,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 7.6
+  },
+  {
+    "name": "Jayce",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Jayce.png",
+    "tier": {
+      "top": "D",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 48.57,
+      "jgl": 47.27,
+      "mid": 49.57,
+      "bot": 49.69,
+      "sup": 41.36
+    },
+    "pickrate": {
+      "top": 5.5,
+      "jgl": 0.1,
+      "mid": 0.9,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 8.4
+  },
+  {
+    "name": "Jhin",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Jhin.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "D",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 42.66,
+      "jgl": 32.81,
+      "mid": 48.52,
+      "bot": 49.43,
+      "sup": 40.07
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 13.7,
+      "sup": 0.1
+    },
+    "banrate": 1.3
+  },
+  {
+    "name": "Jinx",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Jinx.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "S+",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 39.29,
+      "jgl": 39.34,
+      "mid": 48.44,
+      "bot": 51.38,
+      "sup": 30.26
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 11.6,
+      "sup": 0.1
+    },
+    "banrate": 2.7
+  },
+  {
+    "name": "Kaisa",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Kaisa.png",
+    "tier": {
+      "top": "B",
+      "jgl": "B",
+      "mid": "C",
+      "bot": "D",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 44.62,
+      "jgl": 41.9,
+      "mid": 44.26,
+      "bot": 48.88,
+      "sup": 44.32
+    },
+    "pickrate": {
+      "top": 0.2,
+      "jgl": 0.1,
+      "mid": 0.4,
+      "bot": 19.7,
+      "sup": 0.1
+    },
+    "banrate": 2.3
+  },
+  {
+    "name": "Kalista",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Kalista.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "D",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 46.39,
+      "jgl": 20,
+      "mid": 41.07,
+      "bot": 45.9,
+      "sup": 37.77
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 1.3,
+      "sup": 0.1
+    },
+    "banrate": 0.4
+  },
+  {
+    "name": "Karma",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Karma.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "?",
+      "sup": "D"
+    },
+    "winrate": {
+      "top": 49.09,
+      "jgl": 38.46,
+      "mid": 49.05,
+      "bot": 51.25,
+      "sup": 49.37
+    },
+    "pickrate": {
+      "top": 0.3,
+      "jgl": 0.1,
+      "mid": 0.4,
+      "bot": 0.1,
+      "sup": 8.6
+    },
+    "banrate": 5.5
+  },
+  {
+    "name": "Karthus",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Karthus.png",
+    "tier": {
+      "top": "B",
+      "jgl": "B",
+      "mid": "B",
+      "bot": "A",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 45.65,
+      "jgl": 49.8,
+      "mid": 49.11,
+      "bot": 53.14,
+      "sup": 46.43
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 1.7,
+      "mid": 0.1,
+      "bot": 0.4,
+      "sup": 0.1
+    },
+    "banrate": 2.8
+  },
+  {
+    "name": "Kassadin",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Kassadin.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 50.46,
+      "jgl": 22.22,
+      "mid": 49.95,
+      "bot": 20,
+      "sup": 16.67
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 2.5,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 2.8
+  },
+  {
+    "name": "Katarina",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Katarina.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "S+",
+      "bot": "B",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 45.77,
+      "jgl": 21.43,
+      "mid": 50.46,
+      "bot": 45.78,
+      "sup": 39.46
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 6.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 7.1
+  },
+  {
+    "name": "Kayle",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Kayle.png",
+    "tier": {
+      "top": "S+",
+      "jgl": "?",
+      "mid": "S",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 52.08,
+      "jgl": 44.22,
+      "mid": 52.4,
+      "bot": 49.19,
+      "sup": 50.42
+    },
+    "pickrate": {
+      "top": 4.3,
+      "jgl": 0.1,
+      "mid": 1.9,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 4.7
+  },
+  {
+    "name": "Kayn",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Kayn.png",
+    "tier": {
+      "top": "B",
+      "jgl": "S",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 47.42,
+      "jgl": 50.13,
+      "mid": 41.03,
+      "bot": 50,
+      "sup": 35.53
+    },
+    "pickrate": {
+      "top": 0.5,
+      "jgl": 7.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 6.9
+  },
+  {
+    "name": "Kennen",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Kennen.png",
+    "tier": {
+      "top": "S",
+      "jgl": "?",
+      "mid": "A",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 51.95,
+      "jgl": 16.67,
+      "mid": 54.16,
+      "bot": 45.27,
+      "sup": 49.12
+    },
+    "pickrate": {
+      "top": 2.3,
+      "jgl": 0.1,
+      "mid": 0.7,
+      "bot": 0.1,
+      "sup": 0.2
+    },
+    "banrate": 1.7
+  },
+  {
+    "name": "Khazix",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Khazix.png",
+    "tier": {
+      "top": "?",
+      "jgl": "S+",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 40.27,
+      "jgl": 50.61,
+      "mid": 38.1,
+      "bot": 20,
+      "sup": 45.22
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 7.2,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 5.7
+  },
+  {
+    "name": "Kindred",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Kindred.png",
+    "tier": {
+      "top": "?",
+      "jgl": "S",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 41.27,
+      "jgl": 51.1,
+      "mid": 45.36,
+      "bot": 43.52,
+      "sup": 34.48
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 3.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 3.2
+  },
+  {
+    "name": "Kled",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Kled.png",
+    "tier": {
+      "top": "A",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 51.15,
+      "jgl": 26.09,
+      "mid": 51.51,
+      "bot": 45.21,
+      "sup": 45.15
+    },
+    "pickrate": {
+      "top": 1.5,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 0.7
+  },
+  {
+    "name": "KogMaw",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/KogMaw.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "S",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 44.21,
+      "jgl": 32.26,
+      "mid": 50.82,
+      "bot": 52.83,
+      "sup": 47.95
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 1.7,
+      "sup": 0.1
+    },
+    "banrate": 0.6
+  },
+  {
+    "name": "KSante",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/KSante.png",
+    "tier": {
+      "top": "D",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 47.93,
+      "jgl": 31.03,
+      "mid": 48.86,
+      "bot": 43.33,
+      "sup": 37.14
+    },
+    "pickrate": {
+      "top": 4.4,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 2.7
+  },
+  {
+    "name": "Leblanc",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Leblanc.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "S+",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 46.93,
+      "jgl": 26.09,
+      "mid": 50.15,
+      "bot": 44.09,
+      "sup": 48.78
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 5.8,
+      "bot": 0.1,
+      "sup": 0.9
+    },
+    "banrate": 22.1
+  },
+  {
+    "name": "LeeSin",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/LeeSin.png",
+    "tier": {
+      "top": "D",
+      "jgl": "S+",
+      "mid": "B",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 43.1,
+      "jgl": 50.73,
+      "mid": 46.11,
+      "bot": 43.71,
+      "sup": 43.05
+    },
+    "pickrate": {
+      "top": 0.3,
+      "jgl": 16,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.2
+    },
+    "banrate": 17.4
+  },
+  {
+    "name": "Leona",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Leona.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "S"
+    },
+    "winrate": {
+      "top": 40.85,
+      "jgl": 30.77,
+      "mid": 22.86,
+      "bot": 30.56,
+      "sup": 50.76
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 5.9
+    },
+    "banrate": 4.9
+  },
+  {
+    "name": "Lillia",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Lillia.png",
+    "tier": {
+      "top": "?",
+      "jgl": "C",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 45.53,
+      "jgl": 49.16,
+      "mid": 44.44,
+      "bot": 53.85,
+      "sup": 23.81
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 3.4,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 3.2
+  },
+  {
+    "name": "Lissandra",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Lissandra.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "A",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 49.39,
+      "jgl": 20,
+      "mid": 50.91,
+      "bot": 48.24,
+      "sup": 46.67
+    },
+    "pickrate": {
+      "top": 0.2,
+      "jgl": 0.1,
+      "mid": 3.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 1.6
+  },
+  {
+    "name": "Lucian",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Lucian.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "C",
+      "bot": "S+",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 41.64,
+      "jgl": 42.86,
+      "mid": 41.16,
+      "bot": 50.32,
+      "sup": 38.2
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.3,
+      "bot": 16.7,
+      "sup": 0.1
+    },
+    "banrate": 18
+  },
+  {
+    "name": "Lulu",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Lulu.png",
+    "tier": {
+      "top": "C",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "S+"
+    },
+    "winrate": {
+      "top": 45.58,
+      "jgl": 30.77,
+      "mid": 47.82,
+      "bot": 47.63,
+      "sup": 51.11
+    },
+    "pickrate": {
+      "top": 0.3,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 13.1
+    },
+    "banrate": 20.9
+  },
+  {
+    "name": "Lux",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Lux.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "A",
+      "sup": "D"
+    },
+    "winrate": {
+      "top": 48.06,
+      "jgl": 30.43,
+      "mid": 49.96,
+      "bot": 52.6,
+      "sup": 47.96
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 4.4,
+      "bot": 0.5,
+      "sup": 4.9
+    },
+    "banrate": 3
+  },
+  {
+    "name": "Malphite",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Malphite.png",
+    "tier": {
+      "top": "S+",
+      "jgl": "?",
+      "mid": "A",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 51.65,
+      "jgl": 39.82,
+      "mid": 51.74,
+      "bot": 49.35,
+      "sup": 45.29
+    },
+    "pickrate": {
+      "top": 4.5,
+      "jgl": 0.1,
+      "mid": 0.8,
+      "bot": 0.1,
+      "sup": 0.2
+    },
+    "banrate": 8.4
+  },
+  {
+    "name": "Malzahar",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Malzahar.png",
+    "tier": {
+      "top": "A",
+      "jgl": "?",
+      "mid": "S",
+      "bot": "B",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 50.9,
+      "jgl": 35.53,
+      "mid": 50.25,
+      "bot": 48.61,
+      "sup": 47.23
+    },
+    "pickrate": {
+      "top": 0.3,
+      "jgl": 0.1,
+      "mid": 4.8,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 6.5
+  },
+  {
+    "name": "Maokai",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Maokai.png",
+    "tier": {
+      "top": "B",
+      "jgl": "B",
+      "mid": "?",
+      "bot": "?",
+      "sup": "A"
+    },
+    "winrate": {
+      "top": 48.13,
+      "jgl": 47.57,
+      "mid": 40.86,
+      "bot": 50,
+      "sup": 50.44
+    },
+    "pickrate": {
+      "top": 0.3,
+      "jgl": 0.3,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 1.6
+    },
+    "banrate": 0.2
+  },
+  {
+    "name": "MasterYi",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/MasterYi.png",
+    "tier": {
+      "top": "B",
+      "jgl": "S+",
+      "mid": "B",
+      "bot": "B",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 46.35,
+      "jgl": 50.81,
+      "mid": 44.97,
+      "bot": 50.55,
+      "sup": 38.82
+    },
+    "pickrate": {
+      "top": 0.2,
+      "jgl": 4.3,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 7.8
+  },
+  {
+    "name": "Mel",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Mel.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "D",
+      "bot": "B",
+      "sup": "D"
+    },
+    "winrate": {
+      "top": 46.38,
+      "jgl": 33.33,
+      "mid": 47.12,
+      "bot": 49.49,
+      "sup": 44.76
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 5.1,
+      "bot": 1.1,
+      "sup": 2.4
+    },
+    "banrate": 27
+  },
+  {
+    "name": "Milio",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Milio.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "S+"
+    },
+    "winrate": {
+      "top": 33.33,
+      "jgl": 16.67,
+      "mid": 33.87,
+      "bot": 54.24,
+      "sup": 51.56
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 8.4
+    },
+    "banrate": 5
+  },
+  {
+    "name": "MissFortune",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/MissFortune.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "S",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 41.41,
+      "jgl": 0,
+      "mid": 40.05,
+      "bot": 50.8,
+      "sup": 37.9
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 6.8,
+      "sup": 0.2
+    },
+    "banrate": 1.6
+  },
+  {
+    "name": "MonkeyKing",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/MonkeyKing.png",
+    "tier": {
+      "top": "A",
+      "jgl": "A",
+      "mid": "B",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 50.54,
+      "jgl": 50.56,
+      "mid": 53.62,
+      "bot": 47.27,
+      "sup": 46.51
+    },
+    "pickrate": {
+      "top": 1.1,
+      "jgl": 3.5,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 1.5
+  },
+  {
+    "name": "Mordekaiser",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Mordekaiser.png",
+    "tier": {
+      "top": "S+",
+      "jgl": "B",
+      "mid": "B",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 51.09,
+      "jgl": 49.02,
+      "mid": 52.18,
+      "bot": 51.43,
+      "sup": 39.19
+    },
+    "pickrate": {
+      "top": 5,
+      "jgl": 0.3,
+      "mid": 0.2,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 5.4
+  },
+  {
+    "name": "Morgana",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Morgana.png",
+    "tier": {
+      "top": "?",
+      "jgl": "A",
+      "mid": "A",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 51.52,
+      "jgl": 50.61,
+      "mid": 51.09,
+      "bot": 44.83,
+      "sup": 49.44
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.3,
+      "mid": 0.4,
+      "bot": 0.1,
+      "sup": 3.3
+    },
+    "banrate": 11.1
+  },
+  {
+    "name": "Naafiri",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Naafiri.png",
+    "tier": {
+      "top": "A",
+      "jgl": "D",
+      "mid": "S",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 52.08,
+      "jgl": 49.05,
+      "mid": 51.75,
+      "bot": 51.59,
+      "sup": 44.98
+    },
+    "pickrate": {
+      "top": 0.2,
+      "jgl": 4.2,
+      "mid": 0.7,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 17.6
+  },
+  {
+    "name": "Nami",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Nami.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "S+"
+    },
+    "winrate": {
+      "top": 38.46,
+      "jgl": 30,
+      "mid": 38.71,
+      "bot": 57.75,
+      "sup": 51.25
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 13.3
+    },
+    "banrate": 2.8
+  },
+  {
+    "name": "Nasus",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Nasus.png",
+    "tier": {
+      "top": "S",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 50.54,
+      "jgl": 50.26,
+      "mid": 49.93,
+      "bot": 48.53,
+      "sup": 38.97
+    },
+    "pickrate": {
+      "top": 2.8,
+      "jgl": 0.2,
+      "mid": 0.3,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 3.3
+  },
+  {
+    "name": "Nautilus",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Nautilus.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 40.42,
+      "jgl": 37.14,
+      "mid": 41.24,
+      "bot": 42.86,
+      "sup": 49.63
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 9.5
+    },
+    "banrate": 13.2
+  },
+  {
+    "name": "Neeko",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Neeko.png",
+    "tier": {
+      "top": "B",
+      "jgl": "B",
+      "mid": "A",
+      "bot": "?",
+      "sup": "D"
+    },
+    "winrate": {
+      "top": 52.43,
+      "jgl": 47.29,
+      "mid": 52.92,
+      "bot": 43.64,
+      "sup": 48.24
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.6,
+      "bot": 0.1,
+      "sup": 2.6
+    },
+    "banrate": 1.7
+  },
+  {
+    "name": "Nidalee",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Nidalee.png",
+    "tier": {
+      "top": "D",
+      "jgl": "D",
+      "mid": "B",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 43.91,
+      "jgl": 48.53,
+      "mid": 48.55,
+      "bot": 37.88,
+      "sup": 47.76
+    },
+    "pickrate": {
+      "top": 0.5,
+      "jgl": 3.8,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.6
+    },
+    "banrate": 2.1
+  },
+  {
+    "name": "Nilah",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Nilah.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "S+",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 36.07,
+      "jgl": 47.37,
+      "mid": 45.78,
+      "bot": 53.04,
+      "sup": 29.73
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 2.3,
+      "sup": 0.1
+    },
+    "banrate": 3.8
+  },
+  {
+    "name": "Nocturne",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Nocturne.png",
+    "tier": {
+      "top": "A",
+      "jgl": "S+",
+      "mid": "B",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 52.12,
+      "jgl": 50.96,
+      "mid": 53.6,
+      "bot": 60,
+      "sup": 32.88
+    },
+    "pickrate": {
+      "top": 0.3,
+      "jgl": 6.7,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 11.2
+  },
+  {
+    "name": "Nunu",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Nunu.png",
+    "tier": {
+      "top": "?",
+      "jgl": "A",
+      "mid": "B",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 32.55,
+      "jgl": 51.23,
+      "mid": 49.12,
+      "bot": 19.42,
+      "sup": 42.31
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 2.5,
+      "mid": 0.3,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 0.7
+  },
+  {
+    "name": "Olaf",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Olaf.png",
+    "tier": {
+      "top": "S",
+      "jgl": "A",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 52.15,
+      "jgl": 53.4,
+      "mid": 50.87,
+      "bot": 49.71,
+      "sup": 40.48
+    },
+    "pickrate": {
+      "top": 1.8,
+      "jgl": 0.3,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 1.4
+  },
+  {
+    "name": "Orianna",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Orianna.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 49.08,
+      "jgl": 30,
+      "mid": 49.84,
+      "bot": 46.18,
+      "sup": 44.61
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 5.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 1.4
+  },
+  {
+    "name": "Ornn",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Ornn.png",
+    "tier": {
+      "top": "A",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 50.79,
+      "jgl": 32.32,
+      "mid": 49.7,
+      "bot": 56.72,
+      "sup": 45.69
+    },
+    "pickrate": {
+      "top": 3.6,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 0.4
+  },
+  {
+    "name": "Pantheon",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Pantheon.png",
+    "tier": {
+      "top": "S",
+      "jgl": "B",
+      "mid": "A",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 50.79,
+      "jgl": 49.92,
+      "mid": 51.53,
+      "bot": 39.49,
+      "sup": 49.4
+    },
+    "pickrate": {
+      "top": 2.1,
+      "jgl": 6.7,
+      "mid": 0.7,
+      "bot": 0.1,
+      "sup": 2.8
+    },
+    "banrate": 10.5
+  },
+  {
+    "name": "Poppy",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Poppy.png",
+    "tier": {
+      "top": "S",
+      "jgl": "A",
+      "mid": "?",
+      "bot": "?",
+      "sup": "S"
+    },
+    "winrate": {
+      "top": 51.57,
+      "jgl": 50.63,
+      "mid": 51.21,
+      "bot": 50,
+      "sup": 51.17
+    },
+    "pickrate": {
+      "top": 1.4,
+      "jgl": 1.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 2.8
+    },
+    "banrate": 6.2
+  },
+  {
+    "name": "Pyke",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Pyke.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 37.5,
+      "jgl": 29.63,
+      "mid": 47.26,
+      "bot": 47.48,
+      "sup": 49.64
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 6.1
+    },
+    "banrate": 22.8
+  },
+  {
+    "name": "Qiyana",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Qiyana.png",
+    "tier": {
+      "top": "B",
+      "jgl": "B",
+      "mid": "A",
+      "bot": "B",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 52.58,
+      "jgl": 49.73,
+      "mid": 50.8,
+      "bot": 44.95,
+      "sup": 46.76
+    },
+    "pickrate": {
+      "top": 0.2,
+      "jgl": 0.8,
+      "mid": 2.7,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 1.1
+  },
+  {
+    "name": "Quinn",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Quinn.png",
+    "tier": {
+      "top": "S",
+      "jgl": "B",
+      "mid": "A",
+      "bot": "B",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 53.11,
+      "jgl": 38.05,
+      "mid": 53.29,
+      "bot": 46.35,
+      "sup": 50.76
+    },
+    "pickrate": {
+      "top": 1.9,
+      "jgl": 0.1,
+      "mid": 0.4,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 1.5
+  },
+  {
+    "name": "Rakan",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Rakan.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "A"
+    },
+    "winrate": {
+      "top": 44.78,
+      "jgl": 60,
+      "mid": 53.55,
+      "bot": 50,
+      "sup": 50.01
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 5.4
+    },
+    "banrate": 0.4
+  },
+  {
+    "name": "Rammus",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Rammus.png",
+    "tier": {
+      "top": "B",
+      "jgl": "C",
+      "mid": "?",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 42.43,
+      "jgl": 48.54,
+      "mid": 48.44,
+      "bot": 12.5,
+      "sup": 49.96
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 1.5,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 3.2
+  },
+  {
+    "name": "RekSai",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/RekSai.png",
+    "tier": {
+      "top": "?",
+      "jgl": "A",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 50.85,
+      "jgl": 51.95,
+      "mid": 47.97,
+      "bot": 25,
+      "sup": 44.57
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 1.3,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 0.5
+  },
+  {
+    "name": "Rell",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Rell.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "S"
+    },
+    "winrate": {
+      "top": 49.59,
+      "jgl": 39.39,
+      "mid": 25,
+      "bot": 33.33,
+      "sup": 51.11
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 5.6
+    },
+    "banrate": 2.7
+  },
+  {
+    "name": "Renata",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Renata.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 27.27,
+      "jgl": 50,
+      "mid": 31.58,
+      "bot": 50.79,
+      "sup": 49.05
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 1.5
+    },
+    "banrate": 0.2
+  },
+  {
+    "name": "Renekton",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Renekton.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 49.73,
+      "jgl": 35.14,
+      "mid": 50.37,
+      "bot": 39.06,
+      "sup": 35.29
+    },
+    "pickrate": {
+      "top": 6.6,
+      "jgl": 0.1,
+      "mid": 0.4,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 5.6
+  },
+  {
+    "name": "Rengar",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Rengar.png",
+    "tier": {
+      "top": "B",
+      "jgl": "C",
+      "mid": "?",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 48.63,
+      "jgl": 49.23,
+      "mid": 30,
+      "bot": 51.51,
+      "sup": 45.49
+    },
+    "pickrate": {
+      "top": 0.5,
+      "jgl": 3.2,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 5.1
+  },
+  {
+    "name": "Riven",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Riven.png",
+    "tier": {
+      "top": "S+",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 51.6,
+      "jgl": 46.76,
+      "mid": 54.59,
+      "bot": 49.37,
+      "sup": 34.96
+    },
+    "pickrate": {
+      "top": 5.2,
+      "jgl": 0.1,
+      "mid": 0.2,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 3.7
+  },
+  {
+    "name": "Rumble",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Rumble.png",
+    "tier": {
+      "top": "D",
+      "jgl": "B",
+      "mid": "B",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 47.24,
+      "jgl": 48.7,
+      "mid": 49.34,
+      "bot": 45.45,
+      "sup": 41.18
+    },
+    "pickrate": {
+      "top": 1.7,
+      "jgl": 0.1,
+      "mid": 0.2,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 0.6
+  },
+  {
+    "name": "Ryze",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Ryze.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "C",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 50.3,
+      "jgl": 35.14,
+      "mid": 49.01,
+      "bot": 42.57,
+      "sup": 40.7
+    },
+    "pickrate": {
+      "top": 1.2,
+      "jgl": 0.1,
+      "mid": 3.6,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 0.8
+  },
+  {
+    "name": "Samira",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Samira.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "S+",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 43.59,
+      "jgl": 13.64,
+      "mid": 42.3,
+      "bot": 50.59,
+      "sup": 33.33
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 5.7,
+      "sup": 0.1
+    },
+    "banrate": 7.3
+  },
+  {
+    "name": "Sejuani",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Sejuani.png",
+    "tier": {
+      "top": "B",
+      "jgl": "D",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 49.26,
+      "jgl": 47.79,
+      "mid": 47.42,
+      "bot": 44.44,
+      "sup": 49.26
+    },
+    "pickrate": {
+      "top": 0.3,
+      "jgl": 1.9,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 0.3
+  },
+  {
+    "name": "Senna",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Senna.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "S+",
+      "sup": "D"
+    },
+    "winrate": {
+      "top": 42.86,
+      "jgl": 30.77,
+      "mid": 35.69,
+      "bot": 50.24,
+      "sup": 47.35
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 8.5,
+      "sup": 3.9
+    },
+    "banrate": 17.9
+  },
+  {
+    "name": "Seraphine",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Seraphine.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "B",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 32.2,
+      "jgl": 0,
+      "mid": 48.33,
+      "bot": 50.5,
+      "sup": 48.87
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.2,
+      "bot": 0.6,
+      "sup": 2.5
+    },
+    "banrate": 0.3
+  },
+  {
+    "name": "Sett",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Sett.png",
+    "tier": {
+      "top": "S+",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 51.49,
+      "jgl": 44.63,
+      "mid": 52.37,
+      "bot": 53.33,
+      "sup": 44.09
+    },
+    "pickrate": {
+      "top": 7.3,
+      "jgl": 0.1,
+      "mid": 0.2,
+      "bot": 0.1,
+      "sup": 0.2
+    },
+    "banrate": 4.6
+  },
+  {
+    "name": "Shaco",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Shaco.png",
+    "tier": {
+      "top": "C",
+      "jgl": "S+",
+      "mid": "?",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 43.85,
+      "jgl": 50.16,
+      "mid": 45.96,
+      "bot": 31.11,
+      "sup": 49.49
+    },
+    "pickrate": {
+      "top": 0.2,
+      "jgl": 5.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 2.1
+    },
+    "banrate": 25.9
+  },
+  {
+    "name": "Shen",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Shen.png",
+    "tier": {
+      "top": "S+",
+      "jgl": "B",
+      "mid": "?",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 51.16,
+      "jgl": 43.69,
+      "mid": 50.31,
+      "bot": 50.77,
+      "sup": 48.82
+    },
+    "pickrate": {
+      "top": 5.5,
+      "jgl": 0.2,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.7
+    },
+    "banrate": 5.5
+  },
+  {
+    "name": "Shyvana",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Shyvana.png",
+    "tier": {
+      "top": "?",
+      "jgl": "B",
+      "mid": "?",
+      "bot": null,
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 43.93,
+      "jgl": 49.4,
+      "mid": 32.95,
+      "bot": null,
+      "sup": 14.29
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 1.4,
+      "mid": 0.1,
+      "bot": null,
+      "sup": 0.1
+    },
+    "banrate": 0.2
+  },
+  {
+    "name": "Singed",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Singed.png",
+    "tier": {
+      "top": "A",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 50.3,
+      "jgl": 40.52,
+      "mid": 53.9,
+      "bot": 45.24,
+      "sup": 44
+    },
+    "pickrate": {
+      "top": 1.7,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 0.4
+  },
+  {
+    "name": "Sion",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Sion.png",
+    "tier": {
+      "top": "D",
+      "jgl": "B",
+      "mid": "A",
+      "bot": "B",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 49.23,
+      "jgl": 45.63,
+      "mid": 51.32,
+      "bot": 47.24,
+      "sup": 50.68
+    },
+    "pickrate": {
+      "top": 4.9,
+      "jgl": 0.1,
+      "mid": 0.6,
+      "bot": 0.1,
+      "sup": 0.2
+    },
+    "banrate": 1
+  },
+  {
+    "name": "Sivir",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Sivir.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "S+",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 41.05,
+      "jgl": 33.33,
+      "mid": 45.9,
+      "bot": 52.2,
+      "sup": 19.05
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 7.4,
+      "sup": 0.1
+    },
+    "banrate": 1.6
+  },
+  {
+    "name": "Skarner",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Skarner.png",
+    "tier": {
+      "top": "?",
+      "jgl": "D",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 48.84,
+      "jgl": 45.6,
+      "mid": 45.65,
+      "bot": 42.86,
+      "sup": 43.06
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.8,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 0.7
+  },
+  {
+    "name": "Smolder",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Smolder.png",
+    "tier": {
+      "top": "C",
+      "jgl": "?",
+      "mid": "D",
+      "bot": "S",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 46.77,
+      "jgl": 0,
+      "mid": 45.56,
+      "bot": 50.28,
+      "sup": 29.58
+    },
+    "pickrate": {
+      "top": 0.7,
+      "jgl": 0.1,
+      "mid": 1.2,
+      "bot": 9.3,
+      "sup": 0.1
+    },
+    "banrate": 5.9
+  },
+  {
+    "name": "Sona",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Sona.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "S"
+    },
+    "winrate": {
+      "top": 30.86,
+      "jgl": 10,
+      "mid": 21.28,
+      "bot": 48.15,
+      "sup": 52.45
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 3.2
+    },
+    "banrate": 0.2
+  },
+  {
+    "name": "Soraka",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Soraka.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "S"
+    },
+    "winrate": {
+      "top": 45.05,
+      "jgl": 12.5,
+      "mid": 42.35,
+      "bot": 48.62,
+      "sup": 51.26
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 5.3
+    },
+    "banrate": 2.4
+  },
+  {
+    "name": "Swain",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Swain.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "A",
+      "bot": "A",
+      "sup": "D"
+    },
+    "winrate": {
+      "top": 48.56,
+      "jgl": 42.86,
+      "mid": 51.95,
+      "bot": 52.13,
+      "sup": 47.28
+    },
+    "pickrate": {
+      "top": 0.4,
+      "jgl": 0.1,
+      "mid": 1,
+      "bot": 0.6,
+      "sup": 1.9
+    },
+    "banrate": 0.7
+  },
+  {
+    "name": "Sylas",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Sylas.png",
+    "tier": {
+      "top": "B",
+      "jgl": "C",
+      "mid": "B",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 49.65,
+      "jgl": 45.5,
+      "mid": 49.82,
+      "bot": 41.35,
+      "sup": 48.46
+    },
+    "pickrate": {
+      "top": 1.2,
+      "jgl": 0.4,
+      "mid": 10,
+      "bot": 0.1,
+      "sup": 1.2
+    },
+    "banrate": 9.9
+  },
+  {
+    "name": "Syndra",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Syndra.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "S",
+      "bot": "B",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 51.8,
+      "jgl": 33.33,
+      "mid": 50.37,
+      "bot": 50.11,
+      "sup": 43.63
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 5.2,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 3.9
+  },
+  {
+    "name": "TahmKench",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/TahmKench.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "C"
+    },
+    "winrate": {
+      "top": 49.48,
+      "jgl": 26.32,
+      "mid": 52.28,
+      "bot": 56.35,
+      "sup": 48.22
+    },
+    "pickrate": {
+      "top": 0.7,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 1.9
+    },
+    "banrate": 0.9
+  },
+  {
+    "name": "Taliyah",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Taliyah.png",
+    "tier": {
+      "top": "?",
+      "jgl": "B",
+      "mid": "A",
+      "bot": "B",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 48.06,
+      "jgl": 50.33,
+      "mid": 50.23,
+      "bot": 50,
+      "sup": 49.82
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.7,
+      "mid": 2.8,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 1
+  },
+  {
+    "name": "Talon",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Talon.png",
+    "tier": {
+      "top": "B",
+      "jgl": "S",
+      "mid": "B",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 47.48,
+      "jgl": 50.54,
+      "mid": 49.93,
+      "bot": 40,
+      "sup": 36.64
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 4.7,
+      "mid": 2.2,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 9.1
+  },
+  {
+    "name": "Taric",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Taric.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "A"
+    },
+    "winrate": {
+      "top": 44.53,
+      "jgl": 52.27,
+      "mid": 53.57,
+      "bot": 54.17,
+      "sup": 51.38
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 1.3
+    },
+    "banrate": 0.2
+  },
+  {
+    "name": "Teemo",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Teemo.png",
+    "tier": {
+      "top": "S",
+      "jgl": "B",
+      "mid": "B",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 51.13,
+      "jgl": 48.4,
+      "mid": 48.37,
+      "bot": 40.37,
+      "sup": 47.92
+    },
+    "pickrate": {
+      "top": 2.5,
+      "jgl": 0.4,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.5
+    },
+    "banrate": 3.8
+  },
+  {
+    "name": "Thresh",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Thresh.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "S+"
+    },
+    "winrate": {
+      "top": 39.5,
+      "jgl": 23.08,
+      "mid": 44.23,
+      "bot": 27.71,
+      "sup": 50.54
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 11.9
+    },
+    "banrate": 5.8
+  },
+  {
+    "name": "Tristana",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Tristana.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "S+",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 42.68,
+      "jgl": 31.34,
+      "mid": 47.56,
+      "bot": 51.08,
+      "sup": 40.4
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.6,
+      "bot": 7.6,
+      "sup": 0.1
+    },
+    "banrate": 5.7
+  },
+  {
+    "name": "Trundle",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Trundle.png",
+    "tier": {
+      "top": "B",
+      "jgl": "S",
+      "mid": "B",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 49.72,
+      "jgl": 52.39,
+      "mid": 44.57,
+      "bot": 34.62,
+      "sup": 45.86
+    },
+    "pickrate": {
+      "top": 2.1,
+      "jgl": 2.5,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 1.1
+  },
+  {
+    "name": "Tryndamere",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Tryndamere.png",
+    "tier": {
+      "top": "A",
+      "jgl": "B",
+      "mid": "B",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 50.21,
+      "jgl": 45.62,
+      "mid": 49.51,
+      "bot": 38.89,
+      "sup": 25.81
+    },
+    "pickrate": {
+      "top": 2.2,
+      "jgl": 0.1,
+      "mid": 0.3,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 1.7
+  },
+  {
+    "name": "TwistedFate",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/TwistedFate.png",
+    "tier": {
+      "top": "B",
+      "jgl": "B",
+      "mid": "S+",
+      "bot": "B",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 49.88,
+      "jgl": 34.1,
+      "mid": 51.71,
+      "bot": 45.67,
+      "sup": 48.36
+    },
+    "pickrate": {
+      "top": 0.4,
+      "jgl": 0.1,
+      "mid": 11.1,
+      "bot": 0.1,
+      "sup": 0.3
+    },
+    "banrate": 10
+  },
+  {
+    "name": "Twitch",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Twitch.png",
+    "tier": {
+      "top": "?",
+      "jgl": "B",
+      "mid": "B",
+      "bot": "S+",
+      "sup": "C"
+    },
+    "winrate": {
+      "top": 49,
+      "jgl": 40.92,
+      "mid": 47.98,
+      "bot": 51.38,
+      "sup": 40.96
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.2,
+      "bot": 4.1,
+      "sup": 0.3
+    },
+    "banrate": 4.4
+  },
+  {
+    "name": "Udyr",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Udyr.png",
+    "tier": {
+      "top": "D",
+      "jgl": "A",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 43.72,
+      "jgl": 50.15,
+      "mid": 49.01,
+      "bot": 37.5,
+      "sup": 41.24
+    },
+    "pickrate": {
+      "top": 1,
+      "jgl": 2.5,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 2.6
+  },
+  {
+    "name": "Urgot",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Urgot.png",
+    "tier": {
+      "top": "S",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 52.26,
+      "jgl": 45.04,
+      "mid": 51.7,
+      "bot": 54.42,
+      "sup": 34.87
+    },
+    "pickrate": {
+      "top": 2.5,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 0.8
+  },
+  {
+    "name": "Varus",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Varus.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "C",
+      "bot": "D",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 48.27,
+      "jgl": 27.27,
+      "mid": 44.15,
+      "bot": 48.05,
+      "sup": 42.29
+    },
+    "pickrate": {
+      "top": 0.9,
+      "jgl": 0.1,
+      "mid": 0.3,
+      "bot": 6.1,
+      "sup": 0.1
+    },
+    "banrate": 2.1
+  },
+  {
+    "name": "Vayne",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Vayne.png",
+    "tier": {
+      "top": "B",
+      "jgl": "B",
+      "mid": "B",
+      "bot": "S+",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 49.32,
+      "jgl": 39.94,
+      "mid": 48.56,
+      "bot": 50.97,
+      "sup": 48.67
+    },
+    "pickrate": {
+      "top": 1.5,
+      "jgl": 0.1,
+      "mid": 0.2,
+      "bot": 7.5,
+      "sup": 0.1
+    },
+    "banrate": 3.9
+  },
+  {
+    "name": "Veigar",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Veigar.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "B",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 49.37,
+      "jgl": 33.33,
+      "mid": 49.54,
+      "bot": 50.87,
+      "sup": 45.83
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 2.4,
+      "bot": 0.4,
+      "sup": 0.3
+    },
+    "banrate": 0.5
+  },
+  {
+    "name": "Velkoz",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Velkoz.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "A",
+      "bot": "A",
+      "sup": "A"
+    },
+    "winrate": {
+      "top": 49.4,
+      "jgl": 14.29,
+      "mid": 50.56,
+      "bot": 52.37,
+      "sup": 50.06
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 1.2,
+      "bot": 0.3,
+      "sup": 2.6
+    },
+    "banrate": 0.8
+  },
+  {
+    "name": "Vex",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Vex.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "S+",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 49.4,
+      "jgl": 0,
+      "mid": 52.69,
+      "bot": 51.61,
+      "sup": 47.94
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 2.8,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 3.6
+  },
+  {
+    "name": "Vi",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Vi.png",
+    "tier": {
+      "top": "B",
+      "jgl": "D",
+      "mid": "B",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 40.99,
+      "jgl": 48.71,
+      "mid": 45.66,
+      "bot": 52,
+      "sup": 39.77
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 5.3,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 2.7
+  },
+  {
+    "name": "Viego",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Viego.png",
+    "tier": {
+      "top": "B",
+      "jgl": "D",
+      "mid": "B",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 45.3,
+      "jgl": 49.15,
+      "mid": 45.27,
+      "bot": 50.77,
+      "sup": 43.13
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 14,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 10.4
+  },
+  {
+    "name": "Viktor",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Viktor.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "D",
+      "bot": "B",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 47.94,
+      "jgl": 0,
+      "mid": 49.19,
+      "bot": 52.04,
+      "sup": 36.63
+    },
+    "pickrate": {
+      "top": 0.2,
+      "jgl": 0.1,
+      "mid": 6.4,
+      "bot": 0.2,
+      "sup": 0.1
+    },
+    "banrate": 4.7
+  },
+  {
+    "name": "Vladimir",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Vladimir.png",
+    "tier": {
+      "top": "S",
+      "jgl": "?",
+      "mid": "S+",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 50.71,
+      "jgl": 31.25,
+      "mid": 50.92,
+      "bot": 48.64,
+      "sup": 41.82
+    },
+    "pickrate": {
+      "top": 3.2,
+      "jgl": 0.1,
+      "mid": 5,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 10.5
+  },
+  {
+    "name": "Volibear",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Volibear.png",
+    "tier": {
+      "top": "D",
+      "jgl": "S",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 48.5,
+      "jgl": 51.76,
+      "mid": 49.67,
+      "bot": 52,
+      "sup": 34.93
+    },
+    "pickrate": {
+      "top": 2.9,
+      "jgl": 3.8,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 4.1
+  },
+  {
+    "name": "Warwick",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Warwick.png",
+    "tier": {
+      "top": "S",
+      "jgl": "S",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 52.12,
+      "jgl": 51.09,
+      "mid": 51.23,
+      "bot": 50,
+      "sup": 49.81
+    },
+    "pickrate": {
+      "top": 2.3,
+      "jgl": 3.2,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 4.8
+  },
+  {
+    "name": "Xayah",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Xayah.png",
+    "tier": {
+      "top": "B",
+      "jgl": "B",
+      "mid": "B",
+      "bot": "A",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 52.38,
+      "jgl": 35,
+      "mid": 40.52,
+      "bot": 50.51,
+      "sup": 23.33
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 5.5,
+      "sup": 0.1
+    },
+    "banrate": 0.9
+  },
+  {
+    "name": "Xerath",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Xerath.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "S",
+      "bot": "A",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 51.87,
+      "jgl": 20,
+      "mid": 50.74,
+      "bot": 52.65,
+      "sup": 49.43
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 4.3,
+      "bot": 0.2,
+      "sup": 3
+    },
+    "banrate": 5.2
+  },
+  {
+    "name": "XinZhao",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/XinZhao.png",
+    "tier": {
+      "top": "B",
+      "jgl": "S",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 48.31,
+      "jgl": 50.63,
+      "mid": 48.62,
+      "bot": 46.27,
+      "sup": 47.25
+    },
+    "pickrate": {
+      "top": 0.3,
+      "jgl": 6.4,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 4.6
+  },
+  {
+    "name": "Yasuo",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Yasuo.png",
+    "tier": {
+      "top": "D",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "S",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 48.78,
+      "jgl": 33.33,
+      "mid": 49.63,
+      "bot": 53.07,
+      "sup": 38.78
+    },
+    "pickrate": {
+      "top": 2.8,
+      "jgl": 0.1,
+      "mid": 7.9,
+      "bot": 0.9,
+      "sup": 0.1
+    },
+    "banrate": 19.7
+  },
+  {
+    "name": "Yone",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Yone.png",
+    "tier": {
+      "top": "D",
+      "jgl": "?",
+      "mid": "D",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 47.16,
+      "jgl": 43.21,
+      "mid": 47.01,
+      "bot": 47.54,
+      "sup": 33.33
+    },
+    "pickrate": {
+      "top": 4.5,
+      "jgl": 0.1,
+      "mid": 4.8,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 5.4
+  },
+  {
+    "name": "Yorick",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Yorick.png",
+    "tier": {
+      "top": "S+",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 50.44,
+      "jgl": 49.64,
+      "mid": 51.23,
+      "bot": 34.88,
+      "sup": 38.39
+    },
+    "pickrate": {
+      "top": 4.1,
+      "jgl": 0.2,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 15.3
+  },
+  {
+    "name": "Yuumi",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Yuumi.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "?",
+      "bot": "?",
+      "sup": "C"
+    },
+    "winrate": {
+      "top": 15.52,
+      "jgl": 6.71,
+      "mid": 12.7,
+      "bot": 32.51,
+      "sup": 49.41
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 7.3
+    },
+    "banrate": 12.5
+  },
+  {
+    "name": "Zac",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Zac.png",
+    "tier": {
+      "top": "A",
+      "jgl": "B",
+      "mid": "A",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 52.05,
+      "jgl": 49.49,
+      "mid": 53.59,
+      "bot": 63.64,
+      "sup": 49.1
+    },
+    "pickrate": {
+      "top": 0.9,
+      "jgl": 3.2,
+      "mid": 0.3,
+      "bot": 0.1,
+      "sup": 0.4
+    },
+    "banrate": 2.2
+  },
+  {
+    "name": "Zed",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Zed.png",
+    "tier": {
+      "top": "B",
+      "jgl": "D",
+      "mid": "D",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 48.68,
+      "jgl": 47.34,
+      "mid": 49.01,
+      "bot": 40.79,
+      "sup": 40.96
+    },
+    "pickrate": {
+      "top": 0.3,
+      "jgl": 7.2,
+      "mid": 7.2,
+      "bot": 0.1,
+      "sup": 0.1
+    },
+    "banrate": 27.8
+  },
+  {
+    "name": "Zeri",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Zeri.png",
+    "tier": {
+      "top": "B",
+      "jgl": "B",
+      "mid": "B",
+      "bot": "S",
+      "sup": "?"
+    },
+    "winrate": {
+      "top": 42.09,
+      "jgl": 38.55,
+      "mid": 45.82,
+      "bot": 50.59,
+      "sup": 36.36
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.1,
+      "bot": 8.8,
+      "sup": 0.1
+    },
+    "banrate": 2.9
+  },
+  {
+    "name": "Ziggs",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Ziggs.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "B",
+      "bot": "B",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 43.72,
+      "jgl": 0,
+      "mid": 46.44,
+      "bot": 49.28,
+      "sup": 41.67
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.5,
+      "bot": 0.9,
+      "sup": 0.1
+    },
+    "banrate": 0.2
+  },
+  {
+    "name": "Zilean",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Zilean.png",
+    "tier": {
+      "top": "B",
+      "jgl": "?",
+      "mid": "A",
+      "bot": "?",
+      "sup": "S"
+    },
+    "winrate": {
+      "top": 53.79,
+      "jgl": 17.65,
+      "mid": 51.8,
+      "bot": 53.3,
+      "sup": 51.38
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 0.4,
+      "bot": 0.1,
+      "sup": 3
+    },
+    "banrate": 1.3
+  },
+  {
+    "name": "Zoe",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Zoe.png",
+    "tier": {
+      "top": "?",
+      "jgl": "?",
+      "mid": "S+",
+      "bot": "?",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 54.37,
+      "jgl": 36.36,
+      "mid": 51.6,
+      "bot": 50,
+      "sup": 49.17
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.1,
+      "mid": 4.3,
+      "bot": 0.1,
+      "sup": 0.9
+    },
+    "banrate": 8.3
+  },
+  {
+    "name": "Zyra",
+    "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Zyra.png",
+    "tier": {
+      "top": "?",
+      "jgl": "A",
+      "mid": "B",
+      "bot": "B",
+      "sup": "B"
+    },
+    "winrate": {
+      "top": 36.63,
+      "jgl": 50.45,
+      "mid": 47.8,
+      "bot": 53.9,
+      "sup": 49.56
+    },
+    "pickrate": {
+      "top": 0.1,
+      "jgl": 0.8,
+      "mid": 0.1,
+      "bot": 0.1,
+      "sup": 2.3
+    },
+    "banrate": 2.1
+  }
+]

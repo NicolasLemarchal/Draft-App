@@ -1,0 +1,17 @@
+.draft-page {
+  height: 100vh;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.draft-page h1, h2 {
+  text-align: center;
+  color: #ff8400;
+}
+
+.draft-team {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 10px 0px;
+}
