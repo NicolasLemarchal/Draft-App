@@ -286,7 +286,7 @@
     "banrate": 1.7
   },
   {
-    "name": "AurelionSol",
+    "name": "Aurelion Sol",
     "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/AurelionSol.png",
     "tier": {
       "top": "B",
@@ -390,7 +390,7 @@
     "banrate": 1.3
   },
   {
-    "name": "Belveth",
+    "name": "Bel'Veth",
     "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Belveth.png",
     "tier": {
       "top": "?",
@@ -598,7 +598,7 @@
     "banrate": 1.4
   },
   {
-    "name": "Chogath",
+    "name": "Cho'Gath",
     "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Chogath.png",
     "tier": {
       "top": "S",
@@ -728,7 +728,7 @@
     "banrate": 18.8
   },
   {
-    "name": "DrMundo",
+    "name": "Dr. Mundo",
     "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/DrMundo.png",
     "tier": {
       "top": "D",
@@ -1300,7 +1300,7 @@
     "banrate": 1.6
   },
   {
-    "name": "JarvanIV",
+    "name": "Jarvan IV",
     "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/JarvanIV.png",
     "tier": {
       "top": "B",
@@ -1430,7 +1430,7 @@
     "banrate": 2.7
   },
   {
-    "name": "Kaisa",
+    "name": "Kai'Sa",
     "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Kaisa.png",
     "tier": {
       "top": "B",
@@ -1664,7 +1664,7 @@
     "banrate": 1.7
   },
   {
-    "name": "Khazix",
+    "name": "Kha'Zix",
     "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Khazix.png",
     "tier": {
       "top": "?",
@@ -1742,7 +1742,7 @@
     "banrate": 0.7
   },
   {
-    "name": "KogMaw",
+    "name": "Kog'Maw",
     "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/KogMaw.png",
     "tier": {
       "top": "B",
@@ -1768,7 +1768,7 @@
     "banrate": 0.6
   },
   {
-    "name": "KSante",
+    "name": "K'Sante",
     "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/KSante.png",
     "tier": {
       "top": "D",
@@ -1794,7 +1794,7 @@
     "banrate": 2.7
   },
   {
-    "name": "Leblanc",
+    "name": "LeBlanc",
     "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Leblanc.png",
     "tier": {
       "top": "B",
@@ -1820,7 +1820,7 @@
     "banrate": 22.1
   },
   {
-    "name": "LeeSin",
+    "name": "Lee Sin",
     "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/LeeSin.png",
     "tier": {
       "top": "D",
@@ -2080,7 +2080,7 @@
     "banrate": 0.2
   },
   {
-    "name": "MasterYi",
+    "name": "Master Yi",
     "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/MasterYi.png",
     "tier": {
       "top": "B",
@@ -2158,7 +2158,7 @@
     "banrate": 5
   },
   {
-    "name": "MissFortune",
+    "name": "Miss Fortune",
     "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/MissFortune.png",
     "tier": {
       "top": "?",
@@ -2470,7 +2470,7 @@
     "banrate": 11.2
   },
   {
-    "name": "Nunu",
+    "name": "Nunu & Willump",
     "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Nunu.png",
     "tier": {
       "top": "?",
@@ -2756,7 +2756,7 @@
     "banrate": 3.2
   },
   {
-    "name": "RekSai",
+    "name": "Rek'Sai",
     "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/RekSai.png",
     "tier": {
       "top": "?",
@@ -2808,7 +2808,7 @@
     "banrate": 2.7
   },
   {
-    "name": "Renata",
+    "name": "Renata Glasc",
     "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Renata.png",
     "tier": {
       "top": "?",
@@ -3432,7 +3432,7 @@
     "banrate": 3.9
   },
   {
-    "name": "TahmKench",
+    "name": "Tahm Kench",
     "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/TahmKench.png",
     "tier": {
       "top": "B",
@@ -3666,7 +3666,7 @@
     "banrate": 1.7
   },
   {
-    "name": "TwistedFate",
+    "name": "Twisted Fate",
     "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/TwistedFate.png",
     "tier": {
       "top": "B",
@@ -3848,7 +3848,7 @@
     "banrate": 0.5
   },
   {
-    "name": "Velkoz",
+    "name": "Vel'Koz",
     "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/Velkoz.png",
     "tier": {
       "top": "?",
@@ -4108,7 +4108,7 @@
     "banrate": 5.2
   },
   {
-    "name": "XinZhao",
+    "name": "Xin Zhao",
     "img": "https://ddragon.leagueoflegends.com/cdn/15.12.1/img/champion/XinZhao.png",
     "tier": {
       "top": "B",
